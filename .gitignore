@@ -397,4 +397,5 @@ cython_debug/
 #.idea/
 
 
-
+# custom ignores
+logs/*
