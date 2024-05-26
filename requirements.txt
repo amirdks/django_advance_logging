@@ -1,0 +1,4 @@
+python-json-logger==2.0.7
+rich==13.7.1
+django-environ==0.11.2
+Django==5.0.6
